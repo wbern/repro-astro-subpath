@@ -1,0 +1,1 @@
+mv dist/sub-path/index.html dist/sub-path.html
